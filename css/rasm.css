@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #000 !important;
+    color: white !important;
+}
+*{
+    box-sizing: border-box;
+}
+.w-100{
+    margin-top: 50px !important;
+}
+img, .btn{
+    box-shadow: 0 0 15px white;
+}
